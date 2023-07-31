@@ -12,7 +12,7 @@
     *  vim Dockerfile
 ---
 
-### Docker File Creation Commands
+### Docker File Setup Commands
 
     FROM ubuntu:latest
     RUN apt-get update
