@@ -1,7 +1,6 @@
 ### Docker installation on Ubuntu
 
     *  apt update
-    *  apt-get install docker
     *  apt  install docker.io 
 ---
 
